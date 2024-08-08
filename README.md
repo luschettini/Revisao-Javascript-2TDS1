@@ -22,3 +22,6 @@ Uma lanchonete modernizou o seu sistema de pedidos! Agora, os clientes montam se
 
 ### Atividade 06
 Contexto: Em um futuro distante, robôs gigantes batalham em arenas pelo entretenimento das multidões! Você é o programador responsável por controlar o arsenal de um desses robôs.
+
+### Atividade 07
+Contexto: Um leitor apaixonado por livros definiu uma meta de ler um certo número de livros por mês. Você precisa criar um programa que o ajude a acompanhar seu progresso e verificar se ele atingiu sua meta.
