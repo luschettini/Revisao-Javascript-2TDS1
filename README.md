@@ -19,3 +19,6 @@ Implemente uma lógica para que, a cada 5 palmas, o programa adicione um emoji d
 
 ### Atividade 05 
 Uma lanchonete modernizou o seu sistema de pedidos! Agora, os clientes montam seus hambúrgueres diretamente no código, sem precisar de interface gráfica. É a sua vez de programar essa experiência inovadora!
+
+### Atividade 06
+Contexto: Em um futuro distante, robôs gigantes batalham em arenas pelo entretenimento das multidões! Você é o programador responsável por controlar o arsenal de um desses robôs.
